@@ -1,6 +1,6 @@
 // 253 countries
 const countries = [
-    { name: "Afghanistan", code: "AF", phone: 93 },
+    /*{ name: "Afghanistan", code: "AF", phone: 93 },
     { name: "Aland Islands", code: "AX", phone: 358 },
     { name: "Albania", code: "AL", phone: 355 },
     { name: "Algeria", code: "DZ", phone: 213 },
@@ -44,9 +44,9 @@ const countries = [
     { name: "Cayman Islands", code: "KY", phone: 1345 },
     { name: "Central African Republic", code: "CF", phone: 236 },
     { name: "Chad", code: "TD", phone: 235 },
-    { name: "Chile", code: "CL", phone: 56 },
+    { name: "Chile", code: "CL", phone: 56 },*/
     { name: "China", code: "CN", phone: 86 },
-    { name: "Christmas Island", code: "CX", phone: 61 },
+    /*{ name: "Christmas Island", code: "CX", phone: 61 },
     { name: "Cocos (Keeling) Islands", code: "CC", phone: 672 },
     { name: "Colombia", code: "CO", phone: 57 },
     { name: "Comoros", code: "KM", phone: 269 },
@@ -101,9 +101,9 @@ const countries = [
     { name: "Honduras", code: "HN", phone: 504 },
     { name: "Hong Kong", code: "HK", phone: 852 },
     { name: "Hungary", code: "HU", phone: 36 },
-    { name: "Iceland", code: "IS", phone: 354 },
+    { name: "Iceland", code: "IS", phone: 354 },*/
     { name: "India", code: "IN", phone: 91 },
-    { name: "Indonesia", code: "ID", phone: 62 },
+    /*{ name: "Indonesia", code: "ID", phone: 62 },
     { name: "Iran, Islamic Republic of", code: "IR", phone: 98 },
     { name: "Iraq", code: "IQ", phone: 964 },
     { name: "Ireland", code: "IE", phone: 353 },
@@ -117,9 +117,9 @@ const countries = [
     { name: "Kazakhstan", code: "KZ", phone: 7 },
     { name: "Kenya", code: "KE", phone: 254 },
     { name: "Kiribati", code: "KI", phone: 686 },
-    { name: "Korea, Democratic People's Republic of", code: "KP", phone: 850 },
+    { name: "Korea, Democratic People's Republic of", code: "KP", phone: 850 },*/
     { name: "Korea, Republic of", code: "KR", phone: 82 },
-    { name: "Kosovo", code: "XK", phone: 383 },
+    /*{ name: "Kosovo", code: "XK", phone: 383 },
     { name: "Kuwait", code: "KW", phone: 965 },
     { name: "Kyrgyzstan", code: "KG", phone: 996 },
     { name: "Lao People's Democratic Republic", code: "LA", phone: 856 },
@@ -134,9 +134,9 @@ const countries = [
     { name: "Macao", code: "MO", phone: 853 },
     { name: "Macedonia, the Former Yugoslav Republic of", code: "MK", phone: 389 },
     { name: "Madagascar", code: "MG", phone: 261 },
-    { name: "Malawi", code: "MW", phone: 265 },
+    { name: "Malawi", code: "MW", phone: 265 },*/
     { name: "Malaysia", code: "MY", phone: 60 },
-    { name: "Maldives", code: "MV", phone: 960 },
+/*    { name: "Maldives", code: "MV", phone: 960 },
     { name: "Mali", code: "ML", phone: 223 },
     { name: "Malta", code: "MT", phone: 356 },
     { name: "Marshall Islands", code: "MH", phone: 692 },
@@ -201,9 +201,9 @@ const countries = [
     { name: "Serbia", code: "RS", phone: 381 },
     { name: "Serbia and Montenegro", code: "CS", phone: 381 },
     { name: "Seychelles", code: "SC", phone: 248 },
-    { name: "Sierra Leone", code: "SL", phone: 232 },
+    { name: "Sierra Leone", code: "SL", phone: 232 },*/
     { name: "Singapore", code: "SG", phone: 65 },
-    { name: "St Martin", code: "SX", phone: 721 },
+/*    { name: "St Martin", code: "SX", phone: 721 },
     { name: "Slovakia", code: "SK", phone: 421 },
     { name: "Slovenia", code: "SI", phone: 386 },
     { name: "Solomon Islands", code: "SB", phone: 677 },
@@ -222,9 +222,9 @@ const countries = [
     { name: "Syrian Arab Republic", code: "SY", phone: 963 },
     { name: "Taiwan, Province of China", code: "TW", phone: 886 },
     { name: "Tajikistan", code: "TJ", phone: 992 },
-    { name: "Tanzania, United Republic of", code: "TZ", phone: 255 },
+    { name: "Tanzania, United Republic of", code: "TZ", phone: 255 },*/
     { name: "Thailand", code: "TH", phone: 66 },
-    { name: "Timor-Leste", code: "TL", phone: 670 },
+    /*{ name: "Timor-Leste", code: "TL", phone: 670 },
     { name: "Togo", code: "TG", phone: 228 },
     { name: "Tokelau", code: "TK", phone: 690 },
     { name: "Tonga", code: "TO", phone: 676 },
@@ -251,7 +251,7 @@ const countries = [
     { name: "Western Sahara", code: "EH", phone: 212 },
     { name: "Yemen", code: "YE", phone: 967 },
     { name: "Zambia", code: "ZM", phone: 260 },
-    { name: "Zimbabwe", code: "ZW", phone: 263 }
+    { name: "Zimbabwe", code: "ZW", phone: 263 }*/
 ],
 
     select_box = document.querySelector('.options'),
